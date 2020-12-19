@@ -4,9 +4,13 @@ This is the front-end for the [vehicle-rate-api](https://github.com/thedamphair/
 
 ## Requirements 
 - [NodeJS](https://nodejs.org/en/download/releases/)
-## Available Scripts
 
-In the project directory, you can run:
+## Install
+
+Run `npm i`
+## Available Demo Site on:
+
+https://vehicle-client.azurewebsites.net
 
 ### `npm start`
 
