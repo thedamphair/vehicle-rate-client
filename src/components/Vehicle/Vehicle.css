@@ -1,0 +1,26 @@
+.Vehicle {
+  box-shadow: 0 2px 3px #ccc;
+  margin: 10px;
+  box-sizing: border-box;
+  padding: 5px;
+}
+
+.Vehicle-maintenance {
+  box-shadow: 0 2px 3px #ccc;
+  background-color: darkgray;
+  color: #282c34;
+  margin: 10px;
+  box-sizing: border-box;
+  padding: 5px;
+}
+
+.Data {
+  font-size: small;
+}
+
+.Button {
+ background-color: cornflowerblue;
+ color: white;
+ border: none;
+ padding: 10px;
+}
